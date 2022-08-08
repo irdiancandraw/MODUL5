@@ -5,8 +5,8 @@
 
 ## Modul 4
 
-#LIAT TEMPLATE 
-PISAU
+#VIEW BLADE TEMPLATE 
+
 pertama kita membuat folder dan file yang akan di isi
 
 Nama folder yang harus dibuat 
